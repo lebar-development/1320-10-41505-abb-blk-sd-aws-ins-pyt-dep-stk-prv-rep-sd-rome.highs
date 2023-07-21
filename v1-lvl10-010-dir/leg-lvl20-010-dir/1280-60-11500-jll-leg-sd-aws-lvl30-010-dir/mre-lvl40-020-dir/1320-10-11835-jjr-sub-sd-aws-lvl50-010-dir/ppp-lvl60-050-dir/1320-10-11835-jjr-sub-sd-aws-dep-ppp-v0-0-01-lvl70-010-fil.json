@@ -1,5 +1,5 @@
 {
-  "resourceMetadataKEY": "yes",
+  "resourceMetadataKEY": "no",
   "program1NameKEY": "SSH",
   "protocol1TypeKEY": "TCP",
   "portRange1KEY": "22",
